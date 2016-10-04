@@ -80,3 +80,10 @@ Your work is going to fill a large part of your life, and the only way to be tru
 
 ```
 If you want to know more about this quote, please go [here] (http://www.businessinsider.com/best-steve-jobs-quotes-2016-2/#you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-so-you-have-to-trust-that-the-dots-will-somehow-connect-in-your-future-you-have-to-trust-in-something--your-gut-destiny-life-karma-whatever-this-approach-has-never-let-me-down-and-it-has-made-all-the-difference-in-my-life-4)
+
+
+| *Course Number* | _Course Title_ | Instructor |
+|-----------------|:--------------:|-----------:|
+| *Course 1*      |_Communication 202_|MALCOLM R PARKS|
+| *Course 2*      |_Informatics 200_|BETH JOY HEREFORD PATIN|
+| *Course 3*      |_Informatics 201_|MICHAEL FREEMAN|
