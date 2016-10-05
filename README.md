@@ -87,3 +87,9 @@ If you want to know more about this quote, please go [here] (http://www.business
 | *Course 1*      |_Communication 202_|MALCOLM R PARKS|
 | *Course 2*      |_Informatics 200_|BETH JOY HEREFORD PATIN|
 | *Course 3*      |_Informatics 201_|MICHAEL FREEMAN|
+
+
+#cd
+The command ``` cd.. ``` let you go back to one directory.
+
+* cd../.. allows you to go back two directory
